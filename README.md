@@ -1,5 +1,3 @@
-"# default" 
-"To Push Files to Github" 
 To Push Files to Github
 1. Create a new repository in github in browser.
 2. Open Cmder on desktop
